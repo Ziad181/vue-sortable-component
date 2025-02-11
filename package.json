@@ -1,0 +1,39 @@
+{
+    "name": "vue-sortable-component",
+    "version": "1.0.0",
+    "description": "A lightweight Vue 3 sortable component that supports both RTL and LTR layouts.",
+    "main": "dist/index.js",
+    "module": "dist/index.esm.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "vite build",
+      "dev": "vite",
+      "test": "vitest",
+      "lint": "eslint --fix ."
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Ziad181/vue-sortable-component.git"
+    },
+    "keywords": [
+      "vue",
+      "sortable",
+      "drag-and-drop",
+      "vue3",
+      "rtl",
+      "ltr"
+    ],
+    "author": "Ziad Rashad",
+    "license": "MIT",
+    "peerDependencies": {
+      "vue": "^3.0.0"
+    },
+    "devDependencies": {
+      "vite": "^4.0.0",
+      "vue": "^3.0.0",
+      "vitest": "^0.34.0",
+      "eslint": "^8.0.0",
+      "vite-plugin-dts": "^1.7.0"
+    }
+  }
+  
