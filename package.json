@@ -1,5 +1,5 @@
 {
-    "name": "vue-sortable-component",
+    "name": "@ziad_rashad/vue-sortable",
     "version": "1.0.0",
     "description": "A lightweight Vue 3 sortable component that supports both RTL and LTR layouts.",
     "main": "dist/index.js",
