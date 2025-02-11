@@ -1,2 +1,47 @@
-import VueSortable from "./components/VueSortable.vue";
-export default VueSortable;
+# Node modules
+/node_modules/
+
+# Vite build output
+/dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Test coverage
+/coverage/
+
+# build output from Vue.js
+*.tgz
+
+# TypeScript declaration files
+*.d.ts
+
+# Files for npm package
+package-lock.json
+yarn.lock
