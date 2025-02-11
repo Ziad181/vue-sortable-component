@@ -15,7 +15,6 @@ A lightweight Vue 3 sortable component that supports both RTL (right-to-left) an
 npm install @ziad_rashad/vue-sortable
 ```
 
-
 ## Usage
 ```vue
 <script setup>
