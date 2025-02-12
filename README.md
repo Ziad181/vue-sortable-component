@@ -19,7 +19,7 @@ npm install @ziad_rashad/vue-sortable
 ```vue
 <script setup>
 import { ref } from 'vue';
-import VueSortable from 'vue-sortable-component';
+import VueSortable from '@ziad_rashad/vue-sortable';
 
 const items = ref(['Item 1', 'Item 2', 'Item 3', 'Item 4']);
 </script>
