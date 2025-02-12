@@ -1,13 +1,14 @@
 {
   "name": "@ziad_rashad/vue-sortable",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight Vue 3 sortable component that supports both RTL and LTR layouts.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "exports": {
     "import": "./dist/index.esm.js",
-    "require": "./dist/index.js"
+    "require": "./dist/index.js",
+    "types": "./dist/index.d.ts"
   },
   "scripts": {
     "build": "vite build",
@@ -42,7 +43,6 @@
   },
   "files": [
     "dist/",
-    "src/",
     "README.md"
   ]
 }
